@@ -1,0 +1,19 @@
+td,
+th{
+	border:1px;
+	padding:10px;
+}
+td{
+	 text-align: center;
+}
+td.elementen{
+	background-color: #696969;
+	color:#fff;
+}
+th{
+	background-color:#EBEBEB;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
